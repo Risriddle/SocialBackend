@@ -1,6 +1,6 @@
 node_modules
 .env
-app.js
+backup.js
 config/default.json
 post_media
 uploads
